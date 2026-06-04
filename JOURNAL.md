@@ -21,7 +21,7 @@ I designed most of the pcb and through this process learned about EasyEDA. It's 
 
 - https://public.lapse-hackclub.link/timelapses/glOMTsPqtHJH/timelapse-glOMTsPqtHJH.mp4
 
-**Total time spent: Unknown hours**
+**Total time spent: ~1hr**
 
 # May 25: Entry 2
 
@@ -41,4 +41,4 @@ This took a while as i had to decide what to put on it.
 
 - https://lookout.hackclub.com/api/media/010c0061-e945-415e-952f-770f9036aebe/video.mp4
 
-**Total time spent: Unknown hours**
+**Total time spent: ~45m**
