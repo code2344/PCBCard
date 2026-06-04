@@ -22,9 +22,7 @@ I added the text to the pcb and the qr codes!
 This took a while as i had to decide what to put on it.
 
 ![Screenshot 2026-05-25 at 1.57.27 pm.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk5ODEsInB1ciI6ImJsb2JfaWQifX0=--9829deeb9041228daa6bf76b9cfdde9933d1a490/Screenshot 2026-05-25 at 1.57.27 pm.png)
-
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/010c0061-e945-415e-952f-770f9036aebe/video.mp4
+Recording Links:
+https://lookout.hackclub.com/api/media/010c0061-e945-415e-952f-770f9036aebe/video.mp4
 
 **Total time spent: ~45m**
