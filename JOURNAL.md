@@ -7,13 +7,6 @@ created_at: "2026-05-22"
 
 # May 22: Entry 1
 
-- Exported at: 2026-05-25T04:03:08Z
-- Project ID: 3716
-- Entries: 2
-- ID: 8453
-- Author: Ruben
-- Created At: 2026-05-22T10:35:17Z
-
 I designed most of the pcb and through this process learned about EasyEDA. It's different as I'm used to kicad, but it's much easier to get a quote on how much it'll cost, so in the future I'll use it for smaller projects. I used the tutorial from https://jams.hackclub.com/jam/hacker-card to make it and am most of the way through it.
 ![Screenshot 2026-05-22 at 8.34.58 pm.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg0NzUsInB1ciI6ImJsb2JfaWQifX0=--685d98f34d073d4d1acc306859fd3556b31023da/Screenshot 2026-05-22 at 8.34.58 pm.png)
 
@@ -24,10 +17,6 @@ I designed most of the pcb and through this process learned about EasyEDA. It's 
 **Total time spent: ~1hr**
 
 # May 25: Entry 2
-
-- ID: 9028
-- Author: Ruben
-- Created At: 2026-05-25T03:59:14Z
 
 Lookout didn't work :cryign:
 
