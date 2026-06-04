@@ -1,30 +1,33 @@
-# PCB Business Card — Journal Export
+---
+title: "PCB Business Card — Journal Export"
+author: "Ruben"
+description: "Journal entries for PCB Business Card"
+created_at: "2026-05-22"
+---
+
+# May 22: Entry 1
 
 - Exported at: 2026-05-25T04:03:08Z
 - Project ID: 3716
 - Entries: 2
-
-## Entry 1
 - ID: 8453
 - Author: Ruben
 - Created At: 2026-05-22T10:35:17Z
 
-### Content
-
 I designed most of the pcb and through this process learned about EasyEDA. It's different as I'm used to kicad, but it's much easier to get a quote on how much it'll cost, so in the future I'll use it for smaller projects. I used the tutorial from https://jams.hackclub.com/jam/hacker-card to make it and am most of the way through it.
 ![Screenshot 2026-05-22 at 8.34.58 pm.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg0NzUsInB1ciI6ImJsb2JfaWQifX0=--685d98f34d073d4d1acc306859fd3556b31023da/Screenshot 2026-05-22 at 8.34.58 pm.png)
-
 
 ### Recording Links
 
 - https://public.lapse-hackclub.link/timelapses/glOMTsPqtHJH/timelapse-glOMTsPqtHJH.mp4
 
-## Entry 2
+**Total time spent: 0 hours (not specified in original entry)**
+
+# May 25: Entry 2
+
 - ID: 9028
 - Author: Ruben
 - Created At: 2026-05-25T03:59:14Z
-
-### Content
 
 Lookout didn't work :cryign:
 
@@ -34,7 +37,8 @@ This took a while as i had to decide what to put on it.
 
 ![Screenshot 2026-05-25 at 1.57.27 pm.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTk5ODEsInB1ciI6ImJsb2JfaWQifX0=--9829deeb9041228daa6bf76b9cfdde9933d1a490/Screenshot 2026-05-25 at 1.57.27 pm.png)
 
-
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/010c0061-e945-415e-952f-770f9036aebe/video.mp4
+
+**Total time spent: 0 hours (not specified in original entry)**
