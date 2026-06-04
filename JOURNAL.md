@@ -9,8 +9,7 @@ created_at: "2026-05-22"
 
 I designed most of the pcb and through this process learned about EasyEDA. It's different as I'm used to kicad, but it's much easier to get a quote on how much it'll cost, so in the future I'll use it for smaller projects. I used the tutorial from https://jams.hackclub.com/jam/hacker-card to make it and am most of the way through it.
 ![Screenshot 2026-05-22 at 8.34.58 pm.png](https://fallout.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTg0NzUsInB1ciI6ImJsb2JfaWQifX0=--685d98f34d073d4d1acc306859fd3556b31023da/Screenshot 2026-05-22 at 8.34.58 pm.png)
-
-- https://public.lapse-hackclub.link/timelapses/glOMTsPqtHJH/timelapse-glOMTsPqtHJH.mp4
+https://public.lapse-hackclub.link/timelapses/glOMTsPqtHJH/timelapse-glOMTsPqtHJH.mp4
 
 **Total time spent: ~1hr**
 
